@@ -1,0 +1,2 @@
+Este projeto, chamado FormDev, é um formulário de contato desenvolvido exclusivamente com HTML e CSS. Ele apresenta um design moderno e limpo, com campos estilizados para o preenchimento do nome, e-mail, assunto e mensagem. O fundo gradiente azul confere um visual agradável e profissional, enquanto o botão de envio em destaque atrai a atenção do usuário. É um excelente exemplo de como criar interfaces funcionais e atraentes utilizando apenas tecnologias básicas da web.
+
